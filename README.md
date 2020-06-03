@@ -19,5 +19,6 @@ https://www.youtube.com/watch?v=O4NxLezwDNo<BR>
 Hasil Training dan Persiapan Uji Coba Deteksi Object	<BR>
 https://www.youtube.com/watch?v=6zz9uUFf09	<BR>		
 		<BR>
+Melihat Akurasi Object Detection dan Ujicoba Akhir Hasil Training	<BR>			
 https://www.youtube.com/watch?v=-nA9KLzmtYw<BR>	
-Melihat Akurasi Object Detection dan Ujicoba Akhir Hasil Training	<BR>
+
