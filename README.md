@@ -13,7 +13,7 @@ Link video tutorial keseluruhan bisa di akses di <BR>
 Ujicoba Object Detection Tensorflow di Jupyter Notebook <BR>
 https://www.youtube.com/watch?v=7hdo7Y30Yiw<BR>
 <BR>
-Pembuatan Dataset dengan 3 Class / 3 Item<BR><BR>
+Pembuatan Dataset dengan 3 Class / 3 Item<BR>
 https://www.youtube.com/watch?v=O4NxLezwDNo<BR>
 		<BR>
 Hasil Training dan Persiapan Uji Coba Deteksi Object	<BR>
