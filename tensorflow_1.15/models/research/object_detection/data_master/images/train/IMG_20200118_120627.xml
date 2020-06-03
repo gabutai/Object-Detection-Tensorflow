@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data-training</folder>
+	<filename>IMG_20200118_120627.jpg</filename>
+	<path>D:\DATA_APLIKASI\CODING\PYTHON\python3_01\010_indonusa\data-training\IMG_20200118_120627.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kertas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>885</xmin>
+			<ymin>1970</ymin>
+			<xmax>1579</xmax>
+			<ymax>2635</ymax>
+		</bndbox>
+	</object>
+</annotation>
