@@ -1,23 +1,23 @@
 # Object-Detection-Tensorflow
 Object Detection Tensorflow, object yang di deteksi gelas plastik, kertas dan botol plastik
 
-Link tutorial teks video bisa diakses di 
-https://gabutai.github.io/
-
-untuk source code bisa di unduh di 
-https://github.com/gabutai/Object-Detection-Tensorflow
-
-
-Link video tutorial keseluruhan bisa di akses di 
-
-Ujicoba Object Detection Tensorflow di Jupyter Notebook
-https://www.youtube.com/watch?v=7hdo7Y30Yiw
-
-Pembuatan Dataset dengan 3 Class / 3 Item
-https://www.youtube.com/watch?v=O4NxLezwDNo
-		
-Hasil Training dan Persiapan Uji Coba Deteksi Object	
-https://www.youtube.com/watch?v=6zz9uUFf09			
-		
-https://www.youtube.com/watch?v=-nA9KLzmtYw	
-Melihat Akurasi Object Detection dan Ujicoba Akhir Hasil Training	
+Link tutorial teks video bisa diakses di <BR>
+https://gabutai.github.io/ <BR>
+<BR>
+untuk source code bisa di unduh di <BR>
+https://github.com/gabutai/Object-Detection-Tensorflow<BR>
+<BR>
+<BR>
+Link video tutorial keseluruhan bisa di akses di <BR>
+<BR>
+Ujicoba Object Detection Tensorflow di Jupyter Notebook <BR>
+https://www.youtube.com/watch?v=7hdo7Y30Yiw<BR>
+<BR>
+Pembuatan Dataset dengan 3 Class / 3 Item<BR><BR>
+https://www.youtube.com/watch?v=O4NxLezwDNo<BR>
+		<BR>
+Hasil Training dan Persiapan Uji Coba Deteksi Object	<BR>
+https://www.youtube.com/watch?v=6zz9uUFf09	<BR>		
+		<BR>
+https://www.youtube.com/watch?v=-nA9KLzmtYw<BR>	
+Melihat Akurasi Object Detection dan Ujicoba Akhir Hasil Training	<BR>
